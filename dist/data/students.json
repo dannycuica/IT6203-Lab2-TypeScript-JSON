@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Danny Cuica",
+        "email": "danny@example.com",
+        "course": "IT6203",
+        "year": 2,
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "course": "Computer Science",
+        "year": 3,
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Brian Smith",
+        "email": "brian@example.com",
+        "course": "Information Technology",
+        "year": 1,
+        "active": false
+    }
+]

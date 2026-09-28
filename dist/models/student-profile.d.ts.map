@@ -1,0 +1,1 @@
+{"version":3,"file":"student-profile.d.ts","sourceRoot":"","sources":["../../src/models/student-profile.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,aAAa,CAAC;AAErC,qBAAa,cAAe,SAAQ,MAAM;aAIlB,MAAM,EAAE,MAAM;aACd,IAAI,EAAE,MAAM;IAJhC,YACI,IAAI,EAAE,MAAM,EACZ,KAAK,EAAE,MAAM,EACG,MAAM,EAAE,MAAM,EACd,IAAI,EAAE,MAAM,EAG/B;IAED,cAAc,IAAI,MAAM,CAEvB;CACJ"}
